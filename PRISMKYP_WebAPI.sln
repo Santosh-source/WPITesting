@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRISMKYP_WebAPI", "PRISMKYP_WebAPI\PRISMKYP_WebAPI.csproj", "{9F41EF00-B137-4808-B635-AAB1FA4E02EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRISMKYP_WebAPI.Common", "PRISMKYP_WebAPI.Common\PRISMKYP_WebAPI.Common.csproj", "{99A56666-17EC-4A5E-9322-E96C22B70E83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRISMKYP_WebAPI.DataAccessLayer", "PRISMKYP_WebAPI.DataAccessLayer\PRISMKYP_WebAPI.DataAccessLayer.csproj", "{9975AC5F-2C42-42AD-9F1C-C033E3999CB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRISMKYP_WebAPI.ViewModelLayer", "PRISMKYP_WebAPI.ViewModelLayer\PRISMKYP_WebAPI.ViewModelLayer.csproj", "{74DCC83B-738C-42F9-A7CE-EE3853B69DA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F41EF00-B137-4808-B635-AAB1FA4E02EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F41EF00-B137-4808-B635-AAB1FA4E02EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F41EF00-B137-4808-B635-AAB1FA4E02EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F41EF00-B137-4808-B635-AAB1FA4E02EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99A56666-17EC-4A5E-9322-E96C22B70E83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A56666-17EC-4A5E-9322-E96C22B70E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A56666-17EC-4A5E-9322-E96C22B70E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A56666-17EC-4A5E-9322-E96C22B70E83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9975AC5F-2C42-42AD-9F1C-C033E3999CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9975AC5F-2C42-42AD-9F1C-C033E3999CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9975AC5F-2C42-42AD-9F1C-C033E3999CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9975AC5F-2C42-42AD-9F1C-C033E3999CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74DCC83B-738C-42F9-A7CE-EE3853B69DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74DCC83B-738C-42F9-A7CE-EE3853B69DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74DCC83B-738C-42F9-A7CE-EE3853B69DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74DCC83B-738C-42F9-A7CE-EE3853B69DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
